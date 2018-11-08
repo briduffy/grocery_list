@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "materialize-css": "^1.0.0",
+    "react-materialize": "^2.4.8"
+  }
+}
